@@ -1,7 +1,7 @@
 # Celite
 <p>
 Celite (ce-lite) is a roguelike I wrote in C.
-The goal is to have a decent roguelike game made without OOP ( Due to the limitations of C ).
+The goal is to have a decent roguelike game made without OOP to explore other programming techniques
 There is still alot to come, and will progress so long as I feel like working on it.  
 </p>
 
